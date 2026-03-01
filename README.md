@@ -1,6 +1,6 @@
 # Hi, I'm Stas 👋
 
-📍 **Poland** &nbsp;|&nbsp; 🎨 **Design turned PM turned AI** &nbsp;|&nbsp; 🦀 **Rewrote it in Rust. No regrets. Some regrets.**
+📍 **Poland** &nbsp;|&nbsp; 🌀 **Product × Agentics** &nbsp;|&nbsp; 🦀 **Rewrote it in Rust. No regrets. Some regrets.**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,8 +15,8 @@
 
 > Started with an electromechanics degree. Ended up designing interfaces, shipping products to millions, and now building agents that build things. Life is strange and I recommend it.
 
-**Senior AI PM** → [Keepit](https://github.com/keepit-official) · enterprise SaaS data protection
-<br>**AI Consulting** → [stas.vision](https://stas.vision) · agents & automation for founders and enterprise
+**AI PM** → [Keepit](https://github.com/keepit-official) · enterprise SaaS data protection
+<br>**Consulting** → agents & automation for founders and enterprise · [stas.vision](https://stas.vision)
 
 ---
 
