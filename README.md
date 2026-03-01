@@ -28,7 +28,7 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ## Currently
 
-- 🦀 **Building [Athena](https://github.com/Enreign/athena)** — exploring how far autonomous coding agents can self-improve
+- 🦉 **Building [Athena](https://github.com/Enreign/athena)** — exploring how far autonomous coding agents can self-improve
 - 🏢 **Running AI Preview @ [Keepit](https://github.com/keepit-official)** — 30+ enterprise clients, 200+ MCP endpoints, roadmap from human-in-loop → fully agentic
 - 🎯 **Consulting** — helping founders cut repetitive work at [stas.vision](https://stas.vision)
 - 🎹 **Making AI music tools** — because creative projects keep the brain honest
