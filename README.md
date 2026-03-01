@@ -1,6 +1,6 @@
 # Hi, I'm Stas 👋
 
-📍 **Poland** &nbsp;|&nbsp; 🎨 **Design turned PM turned AI** &nbsp;|&nbsp; 🦀 **Currently losing arguments with the borrow checker**
+📍 **Poland** &nbsp;|&nbsp; 🎨 **Design turned PM turned AI** &nbsp;|&nbsp; 🦀 **Rewrote it in Rust. No regrets. Some regrets.**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -33,7 +33,7 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ## Projects
 
-🦀 **[Athena](https://github.com/Enreign/athena)** *(OSS soon)* — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
+🦉 **[Athena](https://github.com/Enreign/athena)** *(OSS soon)* — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
 
 🔥 **[Burnwatch](https://github.com/Enreign/burnwatch)** *(coming soon)* — macOS menu bar app that monitors AI tool spend in real-time. Watches Claude Code, Codex, Gemini CLI, OpenCode. P90 anomaly detection, zero auth, MIT. Because $900 Cursor bills shouldn't sneak up on you.
 
