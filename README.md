@@ -45,10 +45,6 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 📚 **[skellycats.com](https://skellycats.com)** — A children's book universe about friendly skeletons and mischievous cats. Layered humor for kids who love weird things and parents stuck reading aloud at 10pm. Yes, the same person built Athena.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Enreign)
-
 ## Career
 
 PM @ [FACEIT](https://faceit.com) — 30M+ user competitive gaming platform
