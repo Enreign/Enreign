@@ -67,7 +67,7 @@
 
 ## Previously
 
-- First designer @ [Calendly](https://calendly.com) → $3.5B
+- Early UX @ [Calendly](https://calendly.com) — redesigned core product · grew to $3.5B
 - Product @ [Mailtrap](https://mailtrap.io) — 3.94× ARR growth, used by Atlassian · Adobe · PayPal
 - PM @ [FACEIT](https://faceit.com) — 30M+ user competitive gaming platform
 
