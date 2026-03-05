@@ -38,15 +38,15 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 🦉 **[Athena](https://github.com/Enreign/athena)** *(OSS soon)* — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
 
-🔥 **[Burnwatch](https://github.com/Enreign/burnwatch)** *(coming soon)* — macOS menu bar app that monitors AI tool spend in real-time. Watches Claude Code, Codex, Gemini CLI, OpenCode. P90 anomaly detection, zero auth, MIT. Because $900 Cursor bills shouldn't sneak up on you.
+🔥 **Burnwatch** *(coming soon)* — macOS menu bar app that monitors AI tool spend in real-time. Watches Claude Code, Codex, Gemini CLI, OpenCode. P90 anomaly detection, zero auth, MIT. Because $900 Cursor bills shouldn't sneak up on you.
 
-🎵 **[music-to](https://github.com/Enreign/music-to)** *(private)* — AI music production desktop app. Suno generation, stem separation (vocals / drums / bass / other), DAW-ready export. Built with Tauri because native matters.
+🎵 **Luminary Forge** *(private)* — AI music production desktop app. Suno generation, stem separation (vocals / drums / bass / other), DAW-ready export. Built with Tauri because native matters.
 
-🤖 **[productboard-mcp](https://github.com/Enreign/productboard-mcp)** — MCP server for Productboard with 40+ tools. Your AI can now manage your product roadmap. You're welcome, or sorry.
+🤖 **[Productboard MCP](https://github.com/Enreign/productboard-mcp)** — MCP server for Productboard with 40+ tools. Your AI can now manage your product roadmap. You're welcome, or sorry.
 
-🎫 **[freshdeck-mcp](https://github.com/Enreign/freshdeck-mcp)** — MCP server for Freshdesk. Tickets, contacts, agents, conversations — all from your AI assistant.
+🎫 **[Freshdeck MCP](https://github.com/Enreign/freshdeck-mcp)** — MCP server for Freshdesk. Tickets, contacts, agents, conversations — all from your AI assistant.
 
-📚 **[skellycats.com](https://skellycats.com)** — A children's book universe about friendly skeletons and mischievous cats. Layered humor for kids who love weird things and parents stuck reading aloud at 10pm. Yes, the same person built Athena.
+📚 **[Skellies & Gigglecats](https://skellycats.com)** — A children's book universe about friendly skeletons and mischievous cats. Layered humor for kids who love weird things and parents stuck reading aloud at 10pm. Yes, the same person built Athena.
 
 ## Career
 
