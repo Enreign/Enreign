@@ -1,6 +1,27 @@
-# Hi, I'm Stas 👋
+```
+$ whoami
+Stas — Product Manager, Agent Builder, Rust Enthusiast
 
-📍 **Poland** &nbsp;|&nbsp; 🌀 **Product × Agentics** &nbsp;|&nbsp; 🦀 **Rewrote it in Rust. No regrets. Some regrets.**
+$ cat location.txt
+📍 Poland
+
+$ cat stack.txt
+Rust · TypeScript · Python · Go · React · Tauri · Node.js · Claude
+
+$ cat career.txt
+Started with an electromechanics degree.
+Ended up designing interfaces, shipping products to millions,
+and now building agents that build things.
+Life is strange and I recommend it.
+
+$ cat now.txt
+AI PM → Keepit · enterprise SaaS data protection
+Consulting → agents & automation · stas.vision
+
+$ cargo build --release
+   Compiling stas v21.0.0 (21 years of shipping things)
+    Finished release [optimized] target(s)
+```
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -10,11 +31,6 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-
-> Started with an electromechanics degree. Ended up designing interfaces, shipping products to millions, and now building agents that build things. Life is strange and I recommend it.
-
-**AI PM** → [Keepit](https://github.com/keepit-official) · enterprise SaaS data protection
-<br>**Consulting** → agents & automation for founders and enterprise · [stas.vision](https://stas.vision)
 
 ---
 
@@ -52,6 +68,17 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 📚 **[Skellies & Gigglecats](https://skellycats.com)** — A children's book universe about friendly skeletons and mischievous cats. Layered humor for kids who love weird things and parents stuck reading aloud at 10pm. Yes, the same person built Athena.
 
+## Project Pulse
+
+<!-- PULSE:START -->
+| Project | Last Activity |
+|---------|--------------|
+| [Athena](https://github.com/Enreign/athena) | <!-- PULSE:athena --> |
+| [Progressive Estimation](https://github.com/Enreign/progressive-estimation) | <!-- PULSE:progressive-estimation --> |
+| [Productboard MCP](https://github.com/Enreign/productboard-mcp) | <!-- PULSE:productboard-mcp --> |
+| [Freshdeck MCP](https://github.com/Enreign/freshdeck-mcp) | <!-- PULSE:freshdeck-mcp --> |
+<!-- PULSE:END -->
+
 ## Career
 
 Senior AI PM @ [Keepit](https://keepit.com) — enterprise SaaS data protection · MCP & agentic automation
@@ -67,6 +94,7 @@ Senior AI PM @ [Keepit](https://keepit.com) — enterprise SaaS data protection 
 [![LinkedIn](https://img.shields.io/badge/-Stanislav_Shymanskyi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shymanskyi/)
 [![Website](https://img.shields.io/badge/-stas.vision-FF5722?style=flat-square&logo=safari&logoColor=white)](https://stas.vision)
 [![Email](https://img.shields.io/badge/-stas@stas.vision-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stas@stas.vision)
+[![AMA](https://img.shields.io/badge/-Ask_Me_Anything-222222?style=flat-square&logo=github&logoColor=white)](https://github.com/Enreign/Enreign/issues/1)
 
 ---
 

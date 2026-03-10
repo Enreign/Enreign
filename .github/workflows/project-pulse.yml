@@ -1,0 +1,69 @@
+name: Project Pulse
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Every Monday at 6am UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-pulse:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update project pulse
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          repos=("athena" "progressive-estimation" "productboard-mcp" "freshdeck-mcp")
+
+          for repo in "${repos[@]}"; do
+            # Get last commit date
+            last_commit=$(gh api "repos/Enreign/${repo}/commits?per_page=1" \
+              --jq '.[0].commit.committer.date // empty' 2>/dev/null || echo "")
+
+            if [ -n "$last_commit" ]; then
+              # Format as relative time
+              commit_ts=$(date -d "$last_commit" +%s 2>/dev/null || date -j -f "%Y-%m-%dT%H:%M:%SZ" "$last_commit" +%s 2>/dev/null)
+              now_ts=$(date +%s)
+              diff_days=$(( (now_ts - commit_ts) / 86400 ))
+
+              if [ "$diff_days" -eq 0 ]; then
+                label="today"
+              elif [ "$diff_days" -eq 1 ]; then
+                label="yesterday"
+              elif [ "$diff_days" -lt 7 ]; then
+                label="${diff_days}d ago"
+              elif [ "$diff_days" -lt 30 ]; then
+                weeks=$(( diff_days / 7 ))
+                label="${weeks}w ago"
+              elif [ "$diff_days" -lt 365 ]; then
+                months=$(( diff_days / 30 ))
+                label="${months}mo ago"
+              else
+                label="$(date -d "$last_commit" +%b\ %Y 2>/dev/null || echo "a while ago")"
+              fi
+
+              # Color coding
+              if [ "$diff_days" -lt 7 ]; then
+                badge="🟢 ${label}"
+              elif [ "$diff_days" -lt 30 ]; then
+                badge="🟡 ${label}"
+              else
+                badge="🔴 ${label}"
+              fi
+            else
+              badge="⚪ unknown"
+            fi
+
+            # Replace in README
+            sed -i "s|<!-- PULSE:${repo} -->.*|<!-- PULSE:${repo} --> ${badge}|" README.md
+          done
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Update project pulse" && git push)
