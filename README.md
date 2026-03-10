@@ -20,23 +20,25 @@
 
 ## What I'm working on
 
-I spent the first 15 years of my career in design and UX — wireframes, design systems, user research, leading teams across B2B and B2C products. That background never left: I still think in user flows before I think in code, and I believe the best AI tools are the ones that feel invisible.
+I spent the first 5 years of my career in design and UX — wireframes, design systems, user research, leading teams across B2B and B2C products. Then 16 years in product management. That background never left. I still think in user flows before I think in code.
 
-These days I'm Senior AI PM at [Keepit](https://github.com/keepit-official), building MCP integrations and agentic automation for enterprise SaaS backup. I lead a global AI preview program with 30+ enterprise clients, bridging cutting-edge AI with the compliance and security requirements of Fortune 500 companies. On the side I help founders eliminate repetitive work through [stas.vision](https://stas.vision).
+These days I'm Senior AI PM at [Keepit](https://github.com/keepit-official), building MCP integrations and agentic automation for enterprise SaaS backup. I run a global AI preview program with 30+ enterprise clients — navigating the gap between what AI can do and what Fortune 500 security teams will actually allow.
+
+On the side I help founders kill the repetitive work that's eating their week. [stas.vision](https://stas.vision).
 
 In the evenings I write Rust, build autonomous coding systems, make AI music tools, and write children's books about skeletons and cats. The last two are unrelated. Probably.
 
 ## Currently
 
 - 🦉 **Building [Athena](https://github.com/Enreign/athena)** — exploring how far autonomous coding agents can self-improve
-- 🏢 **Running AI Preview @ [Keepit](https://github.com/keepit-official)** — 30+ enterprise clients, 200+ MCP endpoints, roadmap from human-in-loop → fully agentic
+- 🏢 **Running AI Preview @ [Keepit](https://github.com/keepit-official)** — 30+ enterprise clients, roadmap from human-in-loop → fully agentic
 - 🎯 **Consulting** — helping founders cut repetitive work at [stas.vision](https://stas.vision)
 - 🎹 **Making AI music tools** — because creative projects keep the brain honest
 - 📚 **Writing children's books** — [skellycats.com](https://skellycats.com), because why not
 
 ## Projects
 
-🦉 **[Athena](https://github.com/Enreign/athena)** *(OSS soon)* — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
+🦉 **[Athena](https://github.com/Enreign/athena)** — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
 
 🔥 **Burnwatch** *(coming soon)* — macOS menu bar app that monitors AI tool spend in real-time. Watches Claude Code, Codex, Gemini CLI, OpenCode. P90 anomaly detection, zero auth, MIT. Because $900 Cursor bills shouldn't sneak up on you.
 
@@ -50,9 +52,12 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ## Career
 
-PM @ [FACEIT](https://faceit.com) — 30M+ user competitive gaming platform
-<br>Product @ [Mailtrap](https://mailtrap.io) — 3.94× ARR growth · used by Atlassian, Adobe, PayPal, Disney
-<br>Early UX @ [Calendly](https://calendly.com) — redesigned core product · grew to $3.5B
+Senior AI PM @ [Keepit](https://keepit.com) — enterprise SaaS data protection · MCP & agentic automation
+<br>Founding Member @ [Agentics Foundation](https://agentics.org) — democratizing AI education and innovation
+<br>Senior TPM @ [ESL FACEIT Group](https://faceit.com) — grew competitive platform player base 1.7×, mobile MAU 2.5×
+<br>PM @ [Railsware](https://railsware.com) / [Mailtrap](https://mailtrap.io) — 3.94× ARR growth · LTV 2.5× lift
+<br>PM @ [Playhem](https://playhem.com) — competitive gaming platform · scaled team from 2 to 17
+<br>UX Designer @ Railsware, Running Code, Firejuice — 5 years that defined the product thinking
 
 ## Connect
 
@@ -71,7 +76,6 @@ PM @ [FACEIT](https://faceit.com) — 30M+ user competitive gaming platform
 - Ships bedtime stories for 6-year-olds and autonomous Rust agents. Different tabs, same brain.
 - 50/50 B2B and B2C background. Equally comfortable with enterprise CTOs and angry consumer users.
 - Has written more design specs than he'd like to admit, and will defend them if provoked.
-- Poland-based. Powered by coffee and unreasonable project ideas.
 - Ran a gaming platform with 30M users. Still can't beat most of them.
 
 </details>
