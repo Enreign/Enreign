@@ -68,17 +68,6 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 📚 **[Skellies & Gigglecats](https://skellycats.com)** — A children's book universe about friendly skeletons and mischievous cats. Layered humor for kids who love weird things and parents stuck reading aloud at 10pm. Yes, the same person built Athena.
 
-## Project Pulse
-
-<!-- PULSE:START -->
-| Project | Last Activity |
-|---------|--------------|
-| [Athena](https://github.com/Enreign/athena) | <!-- PULSE:athena --> |
-| [Progressive Estimation](https://github.com/Enreign/progressive-estimation) | <!-- PULSE:progressive-estimation --> |
-| [Productboard MCP](https://github.com/Enreign/productboard-mcp) | <!-- PULSE:productboard-mcp --> |
-| [Freshdeck MCP](https://github.com/Enreign/freshdeck-mcp) | <!-- PULSE:freshdeck-mcp --> |
-<!-- PULSE:END -->
-
 ## Career
 
 Senior AI PM @ [Keepit](https://keepit.com) — enterprise SaaS data protection · MCP & agentic automation
