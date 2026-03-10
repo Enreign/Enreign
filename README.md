@@ -40,6 +40,8 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 🦉 **[Athena](https://github.com/Enreign/athena)** — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
 
+📐 **[Progressive Estimation](https://github.com/Enreign/progressive-estimation)** — AI skill for estimating human + agent development work. PERT statistics, confidence bands, calibration loops. Zero dependencies, works in any AI coding assistant.
+
 🔥 **Burnwatch** *(coming soon)* — macOS menu bar app that monitors AI tool spend in real-time. Watches Claude Code, Codex, Gemini CLI, OpenCode. P90 anomaly detection, zero auth, MIT. Because $900 Cursor bills shouldn't sneak up on you.
 
 🎵 **Luminary Forge** *(private)* — AI music production desktop app. Suno generation, stem separation (vocals / drums / bass / other), DAW-ready export. Built with Tauri because native matters.
