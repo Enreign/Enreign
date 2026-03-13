@@ -46,7 +46,7 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ## Currently
 
-- 🦉 **Building [Athena](https://github.com/Enreign/athena)** — exploring how far autonomous coding agents can self-improve
+- ✨ **Building [Sparks](https://github.com/emberloom/sparks)** — exploring how far autonomous coding agents can self-improve
 - 🏢 **Running AI Preview @ [Keepit](https://github.com/keepit-official)** — 30+ enterprise clients, roadmap from human-in-loop → fully agentic
 - 🎯 **Consulting** — helping founders cut repetitive work at [stas.vision](https://stas.vision)
 - 🎹 **Making AI music tools** — because creative projects keep the brain honest
@@ -54,7 +54,7 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ## Projects
 
-🦉 **[Athena](https://github.com/Enreign/athena)** — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
+✨ **[Sparks](https://github.com/emberloom/sparks)** — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. Part of [Emberloom](https://github.com/emberloom). My main experiment in agents that improve agents.
 
 📐 **[Progressive Estimation](https://github.com/Enreign/progressive-estimation)** — AI skill for estimating human + agent development work. PERT statistics, confidence bands, calibration loops. Zero dependencies, works in any AI coding assistant.
 
@@ -66,7 +66,7 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 🎫 **[Freshdeck MCP](https://github.com/Enreign/freshdeck-mcp)** — MCP server for Freshdesk. Tickets, contacts, agents, conversations — all from your AI assistant.
 
-📚 **[Skellies & Gigglecats](https://skellycats.com)** — A children's book universe about friendly skeletons and mischievous cats. Layered humor for kids who love weird things and parents stuck reading aloud at 10pm. Yes, the same person built Athena.
+📚 **[Skellies & Gigglecats](https://skellycats.com)** — A children's book universe about friendly skeletons and mischievous cats. Layered humor for kids who love weird things and parents stuck reading aloud at 10pm. Yes, the same person built Sparks.
 
 ## Career
 
