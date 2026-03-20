@@ -56,6 +56,10 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ✨ **[Sparks](https://github.com/emberloom/sparks)** — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. Part of [Emberloom](https://github.com/emberloom). My main experiment in agents that improve agents.
 
+🗺️ **[Cartograph](https://github.com/emberloom/cartograph)** — Codebase world model for AI agents and humans. Parses source into a dependency graph, mines git history for co-change patterns and ownership. Query it before changing code — understand blast radius without loading the whole codebase into context. Part of [Emberloom](https://github.com/emberloom). Used by Sparks internally.
+
+🌐 **Pagerunner** *(private)* — Chrome automation MCP server in Rust. Connects Claude (or any MCP client) to a real Chrome session via CDP — your existing profile, cookies, history intact. Navigate, click, type, screenshot, run JavaScript. No sandboxed browser, no separate profile.
+
 📐 **[Progressive Estimation](https://github.com/Enreign/progressive-estimation)** — AI skill for estimating human + agent development work. PERT statistics, confidence bands, calibration loops. Zero dependencies, works in any AI coding assistant.
 
 🔥 **Burnwatch** *(coming soon)* — macOS menu bar app that monitors AI tool spend in real-time. Watches Claude Code, Codex, Gemini CLI, OpenCode. P90 anomaly detection, zero auth, MIT. Because $900 Cursor bills shouldn't sneak up on you.
