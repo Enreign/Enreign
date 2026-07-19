@@ -46,7 +46,7 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ## Currently
 
-- ✨ **Building [Sparks](https://github.com/emberloom/sparks)** — exploring how far autonomous coding agents can self-improve
+- ✨ **Building Sparks** *(private)* — exploring how far autonomous coding agents can self-improve
 - 🏢 **Running AI Preview @ [Keepit](https://github.com/keepit-official)** — 30+ enterprise clients, roadmap from human-in-loop → fully agentic
 - 🎯 **Consulting** — helping founders cut repetitive work at [stas.vision](https://stas.vision)
 - 🎹 **Making AI music tools** — because creative projects keep the brain honest
@@ -54,9 +54,9 @@ In the evenings I write Rust, build autonomous coding systems, make AI music too
 
 ## Projects
 
-✨ **[Sparks](https://github.com/emberloom/sparks)** — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. Part of [Emberloom](https://github.com/emberloom). My main experiment in agents that improve agents.
+✨ **Sparks** *(private)* — Autonomous multi-agent system in Rust. Ghost agents (`coder`, `scout`), eval harness, self-build + optimizer tournament pipeline. My main experiment in agents that improve agents.
 
-🗺️ **[Cartograph](https://github.com/emberloom/cartograph)** — Codebase world model for AI agents and humans. Parses source into a dependency graph, mines git history for co-change patterns and ownership. Query it before changing code — understand blast radius without loading the whole codebase into context. Part of [Emberloom](https://github.com/emberloom). Used by Sparks internally.
+🗺️ **Cartograph** *(private)* — Codebase world model for AI agents and humans. Parses source into a dependency graph, mines git history for co-change patterns and ownership. Query it before changing code — understand blast radius without loading the whole codebase into context. Used by Sparks internally.
 
 🌐 **[Pagerunner](https://github.com/Enreign/pagerunner)** — Chrome automation MCP server in Rust. Connects Claude (or any MCP client) to a real Chrome session via CDP — your existing profile, cookies, history intact. Navigate, click, type, screenshot, run JavaScript. No sandboxed browser, no separate profile.
 
